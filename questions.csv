@@ -1,0 +1,9 @@
+What data type should be used to store number of chairs?,int
+What data type should be used to store the colour of the couch?,string
+___ is a loop to use when number of iterations is unknown.,while
+true or false? Indentations does not matter in Python.,false
+true or false? It is possible to check the type of a variable in Python.,true
+Evaluate the boolean expression (10 + 5 != 15).,false
+The index of the first item in a list is ___.,0
+true or false? == equality is interchangable with =,false
+true or false? we use is operator to check if an item is an element of another,false
